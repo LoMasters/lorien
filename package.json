@@ -16,7 +16,7 @@
     "gatsby-plugin-react-next": "^1.0.11",
     "gatsby-plugin-sass": "^1.0.26",
     "gatsby-source-filesystem": "^1.5.11",
-    "gatsby-transformer-remark": "^1.7.26",
+    "gatsby-transformer-remark": "^5.25.1",
     "normalize.css": "^7.0.0",
     "react-markdown": "^3.3.2"
   },
